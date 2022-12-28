@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Roudain (Rod)
+### Hi there 👋 I'm Roudain Sarhan (Rod)
 
 ### Software Engineer
 

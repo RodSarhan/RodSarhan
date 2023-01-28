@@ -5,7 +5,7 @@
 * 👨‍💻  Currently into creating mobile apps with React Native with an emphasis on end to end type safety 
 * 🤝  Into contributing to open source
 * 🌍  Syrian guy living and wokring in Malaysia
-* 🧑‍🏫  I read documentation for fun
+* 🧑‍🏫  Reading documentation is fun
 
 ### Tech I'm passionate about
 <div style="display: flex;">

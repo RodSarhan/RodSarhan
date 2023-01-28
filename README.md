@@ -8,7 +8,7 @@
 * 🧑‍🏫  Reading documentation is fun
 
 ### Tech I'm passionate about
-[![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,mui,redux,nextjs,astro,nodejs,express,mysql,prisma,firebase,python,docker,figma&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,nextjs,astro,nodejs,express,fasitfy,mysql,prisma,firebase,docker,figma&perline=15)](https://skillicons.dev)
 
 ### Stats
 

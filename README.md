@@ -3,7 +3,7 @@
 ### Software Engineer
 
 * 👨‍💻  Currently into creating mobile apps with React Native with an emphasis on end to end type safety 
-* 🤝  Into contirbuting to open source projects and libraries
+* 🤝  Into contributing to open source
 * 🌍  Syrian guy living and wokring in Malaysia
 * 🧑‍🏫  I read documentation for fun
 

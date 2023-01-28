@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Roudain Sarhan (Rod)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ### Software Engineer
 
 * 👨‍💻  Currently into creating mobile apps with React Native with an emphasis on end to end type safety 
@@ -25,4 +27,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RodSarhan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="RodSarhan's GitHub stats" height="229" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodSarhan&layout=compact&langs_count=10&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="229" />
 </div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=RodSarhan&bg_color=3f3f46&color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />

@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Roudain Sarhan (Rod)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&repeat=false&width=750&lines=Hi+there+%F0%9F%91%8B;I'm+Roudain+Sarhan+(Rod);React+Native+and+TypeScript+Developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### Software Engineer
 

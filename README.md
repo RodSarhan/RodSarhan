@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&width=750&lines=Hi+there+%F0%9F%91%8B;I'm+Roudain+Sarhan+(Rod);Full+Stack+Mobile+Developer+(RN%2FTS);Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&width=750&lines=Hi+there+%F0%9F%91%8B;I'm+Roudain+Sarhan+(Rod);Mobile+Apps+Developer+(RN%2FTS);Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### Software Engineer
 
-* 👨‍💻  Currently into creating mobile apps with React Native with an emphasis on end to end type safety 
+* 👨‍💻  Currently into creating mobile apps using React Native and TypeScript
 * 🤝  Into contributing to open source
 * 🌍  Syrian guy living and wokring in Malaysia
 * 🧑‍🏫  Reading documentation is fun
 
 ### Tech I'm passionate about
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mysql,prisma&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,nodejs,express,mysql,md,vscode,androidstudio,apple,&perline=15)](https://skillicons.dev)
 
 ### Stats
 
